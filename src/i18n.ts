@@ -1,0 +1,26 @@
+export const translations = {
+  en: {
+    description: 'Global instructions for OpenCode on this computer.',
+    save: 'Save',
+    reload: 'Reload',
+    discard: 'Discard unsaved changes?',
+    loading: 'Loading',
+    saving: 'Saving',
+    saved: 'Saved',
+    dirty: 'Unsaved changes',
+    editor: 'Edit global AGENTS.md',
+    section: 'Global instructions',
+  },
+  ko: {
+    description: '이 컴퓨터의 OpenCode 전역 지침입니다.',
+    save: '저장',
+    reload: '다시 불러오기',
+    discard: '저장하지 않은 변경 사항을 취소할까요?',
+    loading: '불러오는 중',
+    saving: '저장 중',
+    saved: '저장했습니다.',
+    dirty: '저장하지 않은 변경 사항',
+    editor: '전역 AGENTS.md 편집',
+    section: '전역 지침',
+  },
+}
